@@ -1,0 +1,13 @@
+fundsweb/
+│── app.py
+│── requirements.txt
+│── templates/
+│   ├── index.html
+│   ├── register.html
+│   ├── login.html
+│   └── dashboard.html
+│── static/
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── script.js
